@@ -267,7 +267,8 @@ body.offcanvas-open .site-wrap {
   z-index: 100;
   width: 240px;
   /*background: #283149;*/
-  background: #090b10;
+  /*background: #090b10;*/
+  background: #ffffff;
   padding: 20px 30px;
 }
 
